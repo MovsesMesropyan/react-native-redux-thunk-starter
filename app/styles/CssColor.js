@@ -1,0 +1,65 @@
+export const CssColor = {
+    BLUE: '#4a90e2',
+    DARK_BLUE: '#488cdc',
+    HAWKES_BLUE: '#deeefc',
+    TRANSPARENT: 'transparent',
+    WHITE: '#ffffff',
+    SEMI_WHITE: 'rgba(255, 255, 255, 0.5)',
+    BLACK: '#000000',
+    SEMI_BLACK: 'rgba(0, 0, 0, 0.5)',
+    SEPARATOR: '#cad3e8',
+    MENU_SEPARATOR: 'rgba(157, 157, 157, 0.2)',
+    SMOKY: '#5c536b',
+    SEMI_SMOKY: 'rgba(92, 83, 107, 0.5)',
+    PRIMARY: '#4a4a4a',
+    MONZA: '#d0021b',
+
+
+    GRAY: '#e7e7e7',
+    ATHENS_GRAY_BG: '#edeef2',
+    ATHENS_GRAY: '#f7f6f9',
+    LIGHT_GRAY: '#f8f8f9',
+    DARK_GRAY: '#aaaaaa',
+    ALTO: '#d8d8d8',
+    SEMI_BLUE: 'rgba(74, 144, 226, 0.5)',
+    SEMI_RED: 'rgba(204, 0, 0, 0.5)',
+    DARKER_GRAY: '#5d5d5d',
+    AQUA: '#50d2c2',
+    SELAGO: '#ECF3FC',
+    ORANGE: '#fcab53',
+    HAVELOCK_BLUE: '#488ddd',
+    SECONDARY: '#9b9b9b',
+
+    SHADOW_COLOR: 'rgba(173, 161, 190, 0.25)',
+    BLUE_BG: '#f7faff',
+
+    RED: '#c00',
+    GREEN: '#0c0',
+};
+
+export const ButtonColor = {
+    PRIMARY: '#4a90e2',
+    PICTON_BLUE: '#33A4ED',
+    VALENCIA: '#d94d44',
+    PRIMARY_LABEL: '#ffffff',
+    DISABLED: '#d9d9d9',
+    DISABLED_LABEL: '#999999',
+    SMOKY: '#5c536b',
+};
+
+export const TextColor = {
+    PRIMARY: '#4a4a4a',
+    STEEL_BLUE: '#3D7CAA',
+    SECONDARY: '#9b9b9b',
+    WHITE: '#ffffff',
+    BLUE: '#4a90e2',
+    SMOKY: '#5c536b',
+    SEMI_SMOKY: 'rgba(92, 83, 107, 0.5)',
+    ROLLING_STONE: '#78828a',
+    MOUNTAIN_MIST: '#9d97a6',
+    RIVER_BED: '#4f5c69',
+    APRICOT: '#eb7878',
+    ALUMINIUM: '#a7aab5',
+    COMET: '#4f546a',
+    MONZA: '#d0021b',
+};
